@@ -1,0 +1,1 @@
+# weaviate_go_client
